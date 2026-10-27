@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Riley
 ##  About Me
-Before I transferred to UTSA, I played college basketball at Texas Lutheran and Howard Payne.
+_Before I transferred to UTSA, I played college basketball at Texas Lutheran and Howard Payne._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
